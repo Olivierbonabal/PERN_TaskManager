@@ -1,0 +1,38 @@
+.btn btn-primary {
+    background-image: linear-gradient(to left, #bb1bd4, #781ca5);
+    border-radius: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+    outline: none;
+    border: none;
+}
+
+.table {
+    text-align: center;
+    width: 80%;
+    margin-left: 150px;
+    font-size: 25px;
+    color: aquamarine;
+}
+
+.borderless td {
+    border: none;
+}
+
+.update {
+    color: white;
+    font-size: 15px;
+}
+
+.update:hover {
+    color: green;
+}
+
+.delete {
+    color: white;
+    font-size: 15px;
+}
+
+.delete:hover {
+    color: black;
+}
